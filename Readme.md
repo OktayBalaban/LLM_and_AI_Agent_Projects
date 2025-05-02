@@ -36,7 +36,3 @@ Since **HuggingFace Spaces** is less known among many developers, I wanted to ma
 
 You can view all my live Spaces and models on my Hugging Face profile:  
 [https://huggingface.co/OktayBalaban](https://huggingface.co/OktayBalaban)
-
----
-
-Feel free to explore, test, and reach out for collaborations!
