@@ -8,7 +8,7 @@ This repository hosts documentation and links to live demos deployed on **Huggin
 
 ## 🔗 Live Demos
 
-### ✅ [CV & Job Post Evaluator](https://huggingface.co/spaces/OktayBalaban/CV_JobPost_Evaluator)
+### [CV & Job Post Evaluator](https://huggingface.co/spaces/OktayBalaban/CV_JobPost_Evaluator)
 
 An AI-powered tool that evaluates the compatibility between a **job post** and a **CV/resume**.
 
@@ -18,7 +18,7 @@ An AI-powered tool that evaluates the compatibility between a **job post** and a
 
 ---
 
-### ✅ [Okt.ai – SQL Query AI Agent](https://huggingface.co/spaces/OktayBalaban/Okt.ai?logs=container)
+### [Okt.ai – SQL Query AI Agent](https://huggingface.co/spaces/OktayBalaban/Okt.ai?logs=container)
 
 An interactive AI agent that:
 
@@ -29,12 +29,12 @@ An interactive AI agent that:
 
 ---
 
-## 📝 Why this repository?
+## Why this repository?
 
 Since **HuggingFace Spaces** is less known among many developers, I wanted to make these AI tools more discoverable via GitHub.
 
 You can view all my live Spaces and models on my Hugging Face profile:  
-👉 [https://huggingface.co/OktayBalaban](https://huggingface.co/OktayBalaban)
+[https://huggingface.co/OktayBalaban](https://huggingface.co/OktayBalaban)
 
 ---
 
