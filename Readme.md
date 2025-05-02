@@ -24,6 +24,7 @@ An interactive AI agent that:
 
 - Accepts **natural language queries** (e.g., "show the top 10 most used materials last month").
 - Converts them into **SQL queries** dynamically.
+- Filters manipulative queries such as INSERT, DELETE, DROP etc. and only runs safe ones such as SELECT, DESCRIBE.
 - Connects to an **AWS RDS (MySQL)** database.
 - Displays the results in a user-friendly table.
 
