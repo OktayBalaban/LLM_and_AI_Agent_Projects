@@ -1,38 +1,48 @@
-# LLM and AI Agent Projects
+# 🧠 LLM and AI Agent Projects
 
 Welcome to the repository showcasing my experimental and production-ready AI agent projects, built with Large Language Models (LLMs) and integrated AI services.
 
-This repository hosts documentation and links to live demos deployed on **HuggingFace Spaces**.
+This repository includes documentation and links to **live demos deployed on Hugging Face Spaces**.
 
 ---
 
 ## 🔗 Live Demos
 
-### [CV & Job Post Evaluator](https://huggingface.co/spaces/OktayBalaban/CV_JobPost_Evaluator)
+### 🎭 [Werewolf Game: Agent-Driven Role-Playing Experience](https://huggingface.co/spaces/OktayBalaban/Werewolf_Game)
 
-An AI-powered tool that evaluates the compatibility between a **job post** and a **CV/resume**.
+An interactive, AI-powered version of the classic **Werewolf** social deduction game, enhanced with LLM-driven agent behavior.
 
-- Upload a CV and a job description.
-- The model analyzes the match and outputs a compatibility score and explanation.
-- Ideal for recruiters and candidates to assess alignment.
-
----
-
-### [Okt.ai – SQL Query AI Agent](https://huggingface.co/spaces/OktayBalaban/Okt.ai?logs=container)
-
-An interactive AI agent that:
-
-- Accepts **natural language queries** (e.g., "show the top 10 most used materials last month").
-- Converts them into **SQL queries** dynamically.
-- Filters manipulative queries such as **INSERT, DELETE, DROP** etc. and only runs safe ones such as **SELECT, DESCRIBE**.
-- Connects to an **AWS RDS (MySQL)** database.
-- Displays the results in a user-friendly table.
+- Play as the werewolf among NPCs with different characters.
+- NPCs **discuss**, **accuse**, and **vote** based on evolving context and memory.
+- Built with **LLM-based character logic**, **dialogue parsing**, and **turn-based reasoning**.
+- Demonstrates how agents can simulate **emergent social interaction** without scripted logic.
 
 ---
 
-## Why this repository?
+### 📄 [CV & Job Post Evaluator](https://huggingface.co/spaces/OktayBalaban/CV_JobPost_Evaluator)
 
-Since **HuggingFace Spaces** is less known among many developers, I wanted to make these AI tools more discoverable via GitHub.
+An AI-powered tool that evaluates the compatibility between a **CV/resume** and a **job description**.
 
-You can view all my live Spaces and models on my Hugging Face profile:  
-[https://huggingface.co/OktayBalaban](https://huggingface.co/OktayBalaban)
+- Upload a CV and a job post.
+- The model analyzes both and generates a **compatibility score** with reasoning.
+- Useful for both recruiters and candidates.
+
+---
+
+### 🧮 [Okt.ai – SQL Query AI Agent](https://huggingface.co/spaces/OktayBalaban/Okt.ai?logs=container)
+
+A natural language–to–SQL agent designed for real-world database interaction.
+
+- Accepts **natural language queries** (e.g., "What were the top 5 vendors last week?")
+- Translates them into **safe SQL queries** (blocks INSERT, DELETE, DROP, etc.)
+- Connects to a live **AWS RDS (MySQL)** database.
+- Returns results in a readable table format.
+
+---
+
+## 📌 Why this repository?
+
+Since many of these tools are hosted on **Hugging Face Spaces**, I created this repository to make them easier to find, explore, and try out.
+
+Feel free to explore all my live Spaces and models here:  
+👉 [https://huggingface.co/OktayBalaban](https://huggingface.co/OktayBalaban)
