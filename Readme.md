@@ -2,7 +2,7 @@
 
 Welcome to the repository showcasing my experimental and production-ready AI agent projects, built with Large Language Models (LLMs) and integrated AI services.
 
-This repository includes documentation and links to **live demos deployed on Hugging Face Spaces**.
+This repository includes documentation and links to live projects deployed on Hugging Face Spaces.
 
 ---
 
