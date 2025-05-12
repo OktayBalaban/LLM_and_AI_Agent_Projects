@@ -11,7 +11,7 @@ This repository includes documentation and links to live projects deployed on Hu
 
 ### 🔤 [Wordle-Playing Agent](https://huggingface.co/spaces/OktayBalaban/Wordle_Playing_Agent)
 
-An autonomous Wordle solver powered by an LLM-based agent.
+An autonomous expert **Wordle** solver powered by an LLM-based agent.
 
 - Automatically plays Wordle with strategic reasoning given a word by the user.
 
