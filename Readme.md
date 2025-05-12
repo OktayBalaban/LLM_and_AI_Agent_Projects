@@ -13,7 +13,7 @@ This repository includes documentation and links to live projects deployed on Hu
 
 An autonomous **Expert Wordle Solver** powered by an LLM-based agent.
 
-- Automatically plays Wordle with strategic reasoning given a word by the user.
+- Automatically plays Wordle with strategic reasoning.
 
 - ---
 
