@@ -8,8 +8,6 @@ This repository includes documentation and links to **live demos deployed on Hug
 
 ## 🔗 Live Demos
 
----
-
 
 ### 🔤 [Wordle-Playing Agent](https://huggingface.co/spaces/OktayBalaban/Wordle_Playing_Agent)
 
