@@ -8,6 +8,12 @@ This repository includes documentation and links to **live demos deployed on Hug
 
 ## 🔗 Live Demos
 
+### 🔤 [Wordle-Playing Agent](https://huggingface.co/spaces/OktayBalaban/Wordle_Playing_Agent)
+
+An autonomous Wordle solver powered by an LLM-based agent.
+
+- Automatically plays Wordle with strategic reasoning given a word by the user.
+
 ### 🎭 [Werewolf Game: Agent-Driven Role-Playing Experience](https://huggingface.co/spaces/OktayBalaban/Werewolf_Game)
 
 An interactive, AI-powered version of the classic **Werewolf** social deduction game, enhanced with LLM-driven agent behavior.
@@ -29,7 +35,7 @@ An AI-powered tool that evaluates the compatibility between a **CV/resume** and 
 
 ---
 
-### 🧮 [Okt.ai – SQL Query AI Agent](https://huggingface.co/spaces/OktayBalaban/Okt.ai?logs=container)
+### 🧮 [SQL Query AI Agent](https://huggingface.co/spaces/OktayBalaban/Okt.ai?logs=container)
 
 A natural language–to–SQL agent designed for real-world database interaction.
 
