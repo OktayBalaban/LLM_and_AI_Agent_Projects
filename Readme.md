@@ -15,6 +15,9 @@ An autonomous **Expert Wordle Solver** powered by an LLM-based agent.
 
 - Automatically plays Wordle with strategic reasoning.
 
+For the fully autonomous version that interacts with the actual Wordle game in the browser, see my other project:  
+🔗 [github.com/OktayBalaban/Wordle_Bot](https://github.com/OktayBalaban/Wordle_Bot)
+
 - ---
 
 
