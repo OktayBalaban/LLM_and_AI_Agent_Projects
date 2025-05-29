@@ -32,7 +32,7 @@ This app provides a practical way to use source separation models for musicians,
 
 A more advanced version, **SoundPilot**, is also available for local setup. 
 SoundPilot accepts both song names and YouTube links, uses smart song recognition that tolerates typos, distinguishes live versions etc and automatically preapares the track with extracted instruments:
-GitHub – oktaybalaban/soundpilot
+🔗 [github.com/OktayBalaban/SoundPilot](https://github.com/OktayBalaban/SoundPilot)
 
 
 ### 🎭 [Werewolf Game: Agent-Driven Role-Playing Experience](https://huggingface.co/spaces/OktayBalaban/Werewolf_Game)
