@@ -20,6 +20,16 @@ For the fully autonomous version that interacts with the actual Wordle game in t
 
 - ---
 
+### 🎚️ [ExTrackT – AI Instrument Extractor](https://huggingface.co/spaces/OktayBalaban/ExTrackT)
+
+A user-friendly tool for **AI-based instrument extraction**.
+
+- Upload any MP3 file.
+- Choose which stems to include in the final mix.
+- Download the **remixed result** as an MP3.
+
+This app showcases practical use of **source separation models** for musicians, producers and audio hobbyists.
+
 
 ### 🎭 [Werewolf Game: Agent-Driven Role-Playing Experience](https://huggingface.co/spaces/OktayBalaban/Werewolf_Game)
 
