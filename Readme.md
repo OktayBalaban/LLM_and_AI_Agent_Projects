@@ -28,7 +28,11 @@ A user-friendly tool for **AI-based instrument extraction**.
 - Choose which stems to include in the final mix.
 - Download the **remixed result** as an MP3.
 
-This app showcases practical use of **source separation models** for musicians, producers and audio hobbyists.
+This app provides a practical way to use source separation models for musicians, producers, and audio hobbyists in everyday audio editing tasks.
+
+A more advanced version, **SoundPilot**, is also available for local setup. 
+SoundPilot accepts both song names and YouTube links, uses smart song recognition that tolerates typos, distinguishes live versions etc and automatically preapares the track with extracted instruments:
+GitHub – oktaybalaban/soundpilot
 
 
 ### 🎭 [Werewolf Game: Agent-Driven Role-Playing Experience](https://huggingface.co/spaces/OktayBalaban/Werewolf_Game)
